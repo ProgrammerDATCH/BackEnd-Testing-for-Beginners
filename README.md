@@ -26,7 +26,7 @@ npm install
 ```
 
 2. Run sample
-``bash
+```bash
 npm start
 ```
 
